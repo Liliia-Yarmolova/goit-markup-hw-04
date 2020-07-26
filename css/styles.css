@@ -357,8 +357,7 @@ img {
   border-radius: 50%;
   justify-content: center;
   align-items: center;
-  background-color: teal;
-  /* background-color: var(--primary-white-color); */
+  background-color: var(--primary-white-color);
   fill: var(--social-link-color);
 }
 
